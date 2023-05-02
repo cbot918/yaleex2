@@ -4,6 +4,7 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "cbot918",
+  "repository": "https://github.com/cbot918/yaleex2",
   "engines": {
     "vscode": "^1.77.0"
   },
